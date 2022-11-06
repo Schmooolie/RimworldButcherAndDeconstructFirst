@@ -2,8 +2,8 @@
 <ModMetaData>
     <name>Butcher and deconstruct first</name>
     <author>Schmooolie</author>
-    <url>www.anything.com</url>
-    <packageId>Schmooolie.SchmooolieMods.ButcherAndDeconstructFirst</packageId>
+    <url>https://github.com/Schmooolie/RimworldButcherAndDeconstructFirst</url>
+    <packageId>Schmooolie.ButcherAndDeconstructFirst</packageId>
     <supportedVersions>
         <li>1.4</li>
     </supportedVersions>

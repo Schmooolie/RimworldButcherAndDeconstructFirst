@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Patch>
   <Operation Class="PatchOperationReplace">
-    <xpath>Defs/WorkGiverDefs[defName="Deconstruct"]</xpath>
+    <xpath>Defs/WorkGiverDef[defName="Deconstruct"]/priorityInType</xpath>
     <value>
       <priorityInType>110</priorityInType>
     </value>
