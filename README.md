@@ -4,3 +4,5 @@ Just a simple mod that let's pawns butcher animals before cooking and deconstruc
 
 I probably wont update this Github sorry.
 But feel free to use this code however you want. No need to credit me too.
+
+# Updated to 1.5 - not tested

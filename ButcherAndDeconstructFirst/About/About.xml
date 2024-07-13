@@ -5,7 +5,7 @@
     <url>https://github.com/Schmooolie/RimworldButcherAndDeconstructFirst</url>
     <packageId>Schmooolie.DeconstructAndButcherFirst</packageId>
     <supportedVersions>
-        <li>1.4</li>
+        <li>1.5</li>
     </supportedVersions>
 
     <description>Butcher animals before cooking and deconstruct structures before building new ones.</description>
